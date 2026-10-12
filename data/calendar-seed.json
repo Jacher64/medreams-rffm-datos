@@ -1,0 +1,676 @@
+{
+  "source": {
+    "name": "Real Federación de Fútbol de Madrid",
+    "url": "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
+  },
+  "competition": "DIVISIÓN DE HONOR INFANTIL",
+  "group": "Grupo 1",
+  "season": "2026-2027",
+  "team": {
+    "id": "2277258",
+    "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+  },
+  "refreshedAt": "2026-10-12T09:03:08.921Z",
+  "matches": [
+    {
+      "id": "5570805",
+      "round": 1,
+      "date": "2026-09-26",
+      "kickoff": "09:00",
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'"
+      },
+      "homeScore": 2,
+      "awayScore": 2,
+      "side": "home",
+      "opponent": {
+        "id": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'"
+      }
+    },
+    {
+      "id": "5570814",
+      "round": 2,
+      "date": "2026-10-03",
+      "kickoff": "10:30",
+      "venue": "SAN FERNANDO - SANTIAGO DEL PINO (HA)(HA)",
+      "homeTeam": {
+        "id": "127",
+        "name": "C.D. SAN FERNANDO 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": 0,
+      "awayScore": 1,
+      "side": "away",
+      "opponent": {
+        "id": "127",
+        "name": "C.D. SAN FERNANDO 'A'"
+      }
+    },
+    {
+      "id": "5570822",
+      "round": 3,
+      "date": "2026-10-11",
+      "kickoff": "14:15",
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "299",
+        "name": "LAS ROZAS C.F. 'A'"
+      },
+      "homeScore": 0,
+      "awayScore": 4,
+      "side": "home",
+      "opponent": {
+        "id": "299",
+        "name": "LAS ROZAS C.F. 'A'"
+      }
+    },
+    {
+      "id": "5570831",
+      "round": 4,
+      "date": "2026-10-17",
+      "kickoff": "12:45",
+      "venue": "ALCOBENDAS - CIUDAD DPTVA. VALDELASFUENTES (HA)(HA)",
+      "homeTeam": {
+        "id": "846596",
+        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "846596",
+        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'"
+      }
+    },
+    {
+      "id": "5570839",
+      "round": 5,
+      "date": "2026-10-24",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "308588",
+        "name": "C.D. GALAPAGAR 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "308588",
+        "name": "C.D. GALAPAGAR 'A'"
+      }
+    },
+    {
+      "id": "5570848",
+      "round": 6,
+      "date": "2026-10-31",
+      "kickoff": "15:00",
+      "venue": "POZUELO - VALLE DE LAS CAÑAS 1 (HA)(HA)",
+      "homeTeam": {
+        "id": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'"
+      }
+    },
+    {
+      "id": "5570856",
+      "round": 7,
+      "date": "2026-11-07",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "10",
+        "name": "REAL MADRID C.F. 'B'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "10",
+        "name": "REAL MADRID C.F. 'B'"
+      }
+    },
+    {
+      "id": "5570865",
+      "round": 8,
+      "date": "2026-11-14",
+      "kickoff": null,
+      "venue": "ARAVACA - ANTONIO SANFIZ (HA)(HA)",
+      "homeTeam": {
+        "id": "112",
+        "name": "ARAVACA C.F. - CEIBA 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "112",
+        "name": "ARAVACA C.F. - CEIBA 'A'"
+      }
+    },
+    {
+      "id": "5570873",
+      "round": 9,
+      "date": "2026-11-21",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "795",
+        "name": "A.D. VILLA ROSA 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "795",
+        "name": "A.D. VILLA ROSA 'A'"
+      }
+    },
+    {
+      "id": "5570882",
+      "round": 10,
+      "date": "2026-11-28",
+      "kickoff": null,
+      "venue": "MAJADAHONDA - INST. DEP. LA OLIVA - CTRO. OESTE (HA)(HA)",
+      "homeTeam": {
+        "id": "2209",
+        "name": "C.F. RAYO MAJADAHONDA SAD 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "2209",
+        "name": "C.F. RAYO MAJADAHONDA SAD 'A'"
+      }
+    },
+    {
+      "id": "5570890",
+      "round": 11,
+      "date": "2026-12-12",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'"
+      }
+    },
+    {
+      "id": "5570899",
+      "round": 12,
+      "date": "2026-12-19",
+      "kickoff": null,
+      "venue": "PARACUELLOS - ESTADIO MUNICIPAL (HA)(HA)",
+      "homeTeam": {
+        "id": "9888257",
+        "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "9888257",
+        "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'"
+      }
+    },
+    {
+      "id": "5570907",
+      "round": 13,
+      "date": "2027-01-16",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "334217",
+        "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "334217",
+        "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'"
+      }
+    },
+    {
+      "id": "5570916",
+      "round": 14,
+      "date": "2027-01-23",
+      "kickoff": null,
+      "venue": "ALCOBENDAS - CIUDAD DPTVA. VALDELASFUENTES (HA)(HA)",
+      "homeTeam": {
+        "id": "530015",
+        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "530015",
+        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'"
+      }
+    },
+    {
+      "id": "5570924",
+      "round": 15,
+      "date": "2027-01-30",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'"
+      }
+    },
+    {
+      "id": "5570925",
+      "round": 16,
+      "date": "2027-02-06",
+      "kickoff": null,
+      "venue": "COLMENAR VIEJO - PVO. MPAL. LORENZO RICO (HA)(HA)",
+      "homeTeam": {
+        "id": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'"
+      }
+    },
+    {
+      "id": "5570934",
+      "round": 17,
+      "date": "2027-02-13",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "127",
+        "name": "C.D. SAN FERNANDO 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "127",
+        "name": "C.D. SAN FERNANDO 'A'"
+      }
+    },
+    {
+      "id": "5570942",
+      "round": 18,
+      "date": "2027-02-20",
+      "kickoff": null,
+      "venue": "LAS ROZAS - PVO. DEHESA DE NAVALCARBON 1 (HA)(HA)",
+      "homeTeam": {
+        "id": "299",
+        "name": "LAS ROZAS C.F. 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "299",
+        "name": "LAS ROZAS C.F. 'A'"
+      }
+    },
+    {
+      "id": "5570951",
+      "round": 19,
+      "date": "2027-02-27",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "846596",
+        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "846596",
+        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'"
+      }
+    },
+    {
+      "id": "5570959",
+      "round": 20,
+      "date": "2027-03-06",
+      "kickoff": null,
+      "venue": "GALAPAGAR - EL CHOPO (HA)(HA)",
+      "homeTeam": {
+        "id": "308588",
+        "name": "C.D. GALAPAGAR 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "308588",
+        "name": "C.D. GALAPAGAR 'A'"
+      }
+    },
+    {
+      "id": "5570968",
+      "round": 21,
+      "date": "2027-03-13",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'"
+      }
+    },
+    {
+      "id": "5570976",
+      "round": 22,
+      "date": "2027-03-20",
+      "kickoff": null,
+      "venue": "CIUDAD REAL MADRID 2 (HA)(HA)",
+      "homeTeam": {
+        "id": "10",
+        "name": "REAL MADRID C.F. 'B'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "10",
+        "name": "REAL MADRID C.F. 'B'"
+      }
+    },
+    {
+      "id": "5570985",
+      "round": 23,
+      "date": "2027-04-03",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "112",
+        "name": "ARAVACA C.F. - CEIBA 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "112",
+        "name": "ARAVACA C.F. - CEIBA 'A'"
+      }
+    },
+    {
+      "id": "5570993",
+      "round": 24,
+      "date": "2027-04-10",
+      "kickoff": null,
+      "venue": "CAMPO NUEVO VILLA ROSA (HA)(HA)",
+      "homeTeam": {
+        "id": "795",
+        "name": "A.D. VILLA ROSA 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "795",
+        "name": "A.D. VILLA ROSA 'A'"
+      }
+    },
+    {
+      "id": "5571002",
+      "round": 25,
+      "date": "2027-04-17",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "2209",
+        "name": "C.F. RAYO MAJADAHONDA SAD 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "2209",
+        "name": "C.F. RAYO MAJADAHONDA SAD 'A'"
+      }
+    },
+    {
+      "id": "5571010",
+      "round": 26,
+      "date": "2027-04-24",
+      "kickoff": null,
+      "venue": "GETAFE - CIUDAD DPTVA 1 (HA)(HA)",
+      "homeTeam": {
+        "id": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'"
+      }
+    },
+    {
+      "id": "5571019",
+      "round": 27,
+      "date": "2027-05-01",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "9888257",
+        "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "9888257",
+        "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'"
+      }
+    },
+    {
+      "id": "5571027",
+      "round": 28,
+      "date": "2027-05-08",
+      "kickoff": null,
+      "venue": "ALCOBENDAS - PVO. JOSÉ CABALLERO (HA)(HA)",
+      "homeTeam": {
+        "id": "334217",
+        "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "334217",
+        "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'"
+      }
+    },
+    {
+      "id": "5571036",
+      "round": 29,
+      "date": "2027-05-15",
+      "kickoff": null,
+      "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
+      "homeTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "awayTeam": {
+        "id": "530015",
+        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "home",
+      "opponent": {
+        "id": "530015",
+        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'"
+      }
+    },
+    {
+      "id": "5571044",
+      "round": 30,
+      "date": "2027-05-22",
+      "kickoff": null,
+      "venue": "MAJADAHONDA - ATLETICO DE MADRID C.D. (HA) CAMPO 2(HA)",
+      "homeTeam": {
+        "id": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'"
+      },
+      "awayTeam": {
+        "id": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "side": "away",
+      "opponent": {
+        "id": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'"
+      }
+    }
+  ]
+}
