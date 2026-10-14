@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T19:17:25.212Z",
+  "updatedAt": "2026-10-14T20:09:15.473Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-14T19:17:25.212Z",
+    "refreshedAt": "2026-10-14T20:09:15.473Z",
     "matches": [
       {
         "id": "5570805",
@@ -704,9 +704,21 @@
         "goalsAgainst": 0
       },
       {
+        "teamId": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
+        "position": 3,
+        "played": 2,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 8,
+        "goalsAgainst": 1
+      },
+      {
         "teamId": "10",
         "name": "REAL MADRID C.F. 'B'",
-        "position": 3,
+        "position": 4,
         "played": 2,
         "points": 6,
         "wins": 2,
@@ -718,7 +730,7 @@
       {
         "teamId": "573",
         "name": "GETAFE C.F. S.A.D. 'C'",
-        "position": 4,
+        "position": 5,
         "played": 3,
         "points": 6,
         "wins": 2,
@@ -730,7 +742,7 @@
       {
         "teamId": "308588",
         "name": "C.D. GALAPAGAR 'A'",
-        "position": 5,
+        "position": 6,
         "played": 3,
         "points": 6,
         "wins": 2,
@@ -742,7 +754,7 @@
       {
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
-        "position": 6,
+        "position": 7,
         "played": 3,
         "points": 6,
         "wins": 2,
@@ -754,7 +766,7 @@
       {
         "teamId": "201",
         "name": "A.D. COLMENAR VIEJO 'A'",
-        "position": 7,
+        "position": 8,
         "played": 2,
         "points": 4,
         "wins": 1,
@@ -766,7 +778,7 @@
       {
         "teamId": "846596",
         "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 8,
+        "position": 9,
         "played": 3,
         "points": 4,
         "wins": 1,
@@ -778,7 +790,7 @@
       {
         "teamId": "2277258",
         "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'",
-        "position": 9,
+        "position": 10,
         "played": 3,
         "points": 4,
         "wins": 1,
@@ -786,18 +798,6 @@
         "losses": 1,
         "goalsFor": 3,
         "goalsAgainst": 6
-      },
-      {
-        "teamId": "300551",
-        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
-        "position": 10,
-        "played": 1,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 4,
-        "goalsAgainst": 0
       },
       {
         "teamId": "795",
@@ -839,13 +839,13 @@
         "teamId": "112",
         "name": "ARAVACA C.F. - CEIBA 'A'",
         "position": 14,
-        "played": 2,
+        "played": 3,
         "points": 0,
         "wins": 0,
         "draws": 0,
-        "losses": 2,
-        "goalsFor": 0,
-        "goalsAgainst": 3
+        "losses": 3,
+        "goalsFor": 1,
+        "goalsAgainst": 7
       },
       {
         "teamId": "334217",
@@ -872,7 +872,7 @@
         "goalsAgainst": 14
       }
     ],
-    "refreshedAt": "2026-10-14T19:17:25.212Z",
+    "refreshedAt": "2026-10-14T20:09:15.473Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
