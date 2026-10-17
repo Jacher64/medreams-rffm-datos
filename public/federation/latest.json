@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T15:00:29.106Z",
+  "updatedAt": "2026-10-17T15:34:21.648Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-17T15:00:29.106Z",
+    "refreshedAt": "2026-10-17T15:34:21.648Z",
     "matches": [
       {
         "id": "5570805",
@@ -728,9 +728,21 @@
         "goalsAgainst": 2
       },
       {
+        "teamId": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'",
+        "position": 5,
+        "played": 4,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "goalsFor": 11,
+        "goalsAgainst": 4
+      },
+      {
         "teamId": "308588",
         "name": "C.D. GALAPAGAR 'A'",
-        "position": 5,
+        "position": 6,
         "played": 4,
         "points": 9,
         "wins": 3,
@@ -738,18 +750,6 @@
         "losses": 1,
         "goalsFor": 9,
         "goalsAgainst": 6
-      },
-      {
-        "teamId": "573",
-        "name": "GETAFE C.F. S.A.D. 'C'",
-        "position": 6,
-        "played": 3,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 1,
-        "goalsFor": 7,
-        "goalsAgainst": 4
       },
       {
         "teamId": "9888257",
@@ -812,9 +812,21 @@
         "goalsAgainst": 16
       },
       {
+        "teamId": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'",
+        "position": 12,
+        "played": 4,
+        "points": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 3,
+        "goalsAgainst": 15
+      },
+      {
         "teamId": "530015",
         "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
-        "position": 12,
+        "position": 13,
         "played": 4,
         "points": 2,
         "wins": 0,
@@ -826,7 +838,7 @@
       {
         "teamId": "127",
         "name": "C.D. SAN FERNANDO 'A'",
-        "position": 13,
+        "position": 14,
         "played": 4,
         "points": 1,
         "wins": 0,
@@ -836,43 +848,31 @@
         "goalsAgainst": 8
       },
       {
-        "teamId": "112",
-        "name": "ARAVACA C.F. - CEIBA 'A'",
-        "position": 14,
-        "played": 3,
-        "points": 0,
-        "wins": 0,
-        "draws": 0,
-        "losses": 3,
-        "goalsFor": 1,
-        "goalsAgainst": 7
-      },
-      {
         "teamId": "334217",
         "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'",
         "position": 15,
-        "played": 3,
+        "played": 4,
         "points": 0,
         "wins": 0,
         "draws": 0,
-        "losses": 3,
-        "goalsFor": 3,
-        "goalsAgainst": 10
+        "losses": 4,
+        "goalsFor": 4,
+        "goalsAgainst": 13
       },
       {
-        "teamId": "1880",
-        "name": "C.F. POZUELO DE ALARCON 'A'",
+        "teamId": "112",
+        "name": "ARAVACA C.F. - CEIBA 'A'",
         "position": 16,
-        "played": 3,
+        "played": 4,
         "points": 0,
         "wins": 0,
         "draws": 0,
-        "losses": 3,
-        "goalsFor": 0,
-        "goalsAgainst": 14
+        "losses": 4,
+        "goalsFor": 1,
+        "goalsAgainst": 11
       }
     ],
-    "refreshedAt": "2026-10-17T15:00:29.106Z",
+    "refreshedAt": "2026-10-17T15:34:21.648Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
