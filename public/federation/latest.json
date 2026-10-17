@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T09:35:59.830Z",
+  "updatedAt": "2026-10-17T10:03:18.382Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-17T09:35:59.830Z",
+    "refreshedAt": "2026-10-17T10:03:18.382Z",
     "matches": [
       {
         "id": "5570805",
@@ -692,9 +692,21 @@
         "goalsAgainst": 0
       },
       {
+        "teamId": "10",
+        "name": "REAL MADRID C.F. 'B'",
+        "position": 2,
+        "played": 3,
+        "points": 9,
+        "wins": 3,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 13,
+        "goalsAgainst": 3
+      },
+      {
         "teamId": "2209",
         "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
-        "position": 2,
+        "position": 3,
         "played": 2,
         "points": 6,
         "wins": 2,
@@ -706,18 +718,6 @@
       {
         "teamId": "300551",
         "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
-        "position": 3,
-        "played": 2,
-        "points": 6,
-        "wins": 2,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 8,
-        "goalsAgainst": 1
-      },
-      {
-        "teamId": "10",
-        "name": "REAL MADRID C.F. 'B'",
         "position": 4,
         "played": 2,
         "points": 6,
@@ -725,7 +725,7 @@
         "draws": 0,
         "losses": 0,
         "goalsFor": 8,
-        "goalsAgainst": 2
+        "goalsAgainst": 1
       },
       {
         "teamId": "573",
@@ -755,13 +755,13 @@
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
         "position": 7,
-        "played": 3,
+        "played": 4,
         "points": 6,
         "wins": 2,
         "draws": 0,
-        "losses": 1,
-        "goalsFor": 4,
-        "goalsAgainst": 2
+        "losses": 2,
+        "goalsFor": 5,
+        "goalsAgainst": 7
       },
       {
         "teamId": "201",
@@ -872,12 +872,12 @@
         "goalsAgainst": 14
       }
     ],
-    "refreshedAt": "2026-10-17T09:35:59.830Z",
+    "refreshedAt": "2026-10-17T10:03:18.382Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
     },
-    "round": 3,
+    "round": 4,
     "season": "2026-2027",
     "competition": "DIVISIÓN DE HONOR INFANTIL",
     "group": "Grupo 1"
