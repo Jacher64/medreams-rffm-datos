@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T19:17:53.511Z",
+  "updatedAt": "2026-10-21T20:07:03.101Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-21T19:17:53.511Z",
+    "refreshedAt": "2026-10-21T20:07:03.101Z",
     "matches": [
       {
         "id": "5570805",
@@ -680,9 +680,21 @@
   "standings": {
     "teams": [
       {
+        "teamId": "300551",
+        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
+        "position": 1,
+        "played": 4,
+        "points": 12,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goalsFor": 14,
+        "goalsAgainst": 2
+      },
+      {
         "teamId": "299",
         "name": "LAS ROZAS C.F. 'A'",
-        "position": 1,
+        "position": 2,
         "played": 4,
         "points": 10,
         "wins": 3,
@@ -694,7 +706,7 @@
       {
         "teamId": "2209",
         "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
-        "position": 2,
+        "position": 3,
         "played": 3,
         "points": 9,
         "wins": 3,
@@ -706,7 +718,7 @@
       {
         "teamId": "10",
         "name": "REAL MADRID C.F. 'B'",
-        "position": 3,
+        "position": 4,
         "played": 3,
         "points": 9,
         "wins": 3,
@@ -714,18 +726,6 @@
         "losses": 0,
         "goalsFor": 13,
         "goalsAgainst": 3
-      },
-      {
-        "teamId": "300551",
-        "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
-        "position": 4,
-        "played": 3,
-        "points": 9,
-        "wins": 3,
-        "draws": 0,
-        "losses": 0,
-        "goalsFor": 11,
-        "goalsAgainst": 2
       },
       {
         "teamId": "573",
@@ -764,21 +764,9 @@
         "goalsAgainst": 7
       },
       {
-        "teamId": "201",
-        "name": "A.D. COLMENAR VIEJO 'A'",
-        "position": 8,
-        "played": 3,
-        "points": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 0,
-        "goalsFor": 5,
-        "goalsAgainst": 4
-      },
-      {
         "teamId": "846596",
         "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 9,
+        "position": 8,
         "played": 4,
         "points": 5,
         "wins": 1,
@@ -786,6 +774,18 @@
         "losses": 1,
         "goalsFor": 4,
         "goalsAgainst": 4
+      },
+      {
+        "teamId": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'",
+        "position": 9,
+        "played": 4,
+        "points": 5,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goalsFor": 5,
+        "goalsAgainst": 7
       },
       {
         "teamId": "2277258",
@@ -872,7 +872,7 @@
         "goalsAgainst": 11
       }
     ],
-    "refreshedAt": "2026-10-21T19:17:53.511Z",
+    "refreshedAt": "2026-10-21T20:07:03.101Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
