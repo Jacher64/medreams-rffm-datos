@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T02:39:14.929Z",
+  "updatedAt": "2026-10-24T03:08:51.853Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-24T02:39:14.929Z",
+    "refreshedAt": "2026-10-24T03:08:51.853Z",
     "matches": [
       {
         "id": "5570805",
@@ -872,7 +872,7 @@
         "goalsAgainst": 11
       }
     ],
-    "refreshedAt": "2026-10-24T02:39:14.929Z",
+    "refreshedAt": "2026-10-24T03:08:51.853Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
