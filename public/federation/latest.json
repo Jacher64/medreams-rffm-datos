@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T08:05:51.576Z",
+  "updatedAt": "2026-10-24T08:37:51.548Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-24T08:05:51.576Z",
+    "refreshedAt": "2026-10-24T08:37:51.548Z",
     "matches": [
       {
         "id": "5570805",
@@ -704,9 +704,21 @@
         "goalsAgainst": 2
       },
       {
+        "teamId": "573",
+        "name": "GETAFE C.F. S.A.D. 'C'",
+        "position": 3,
+        "played": 5,
+        "points": 10,
+        "wins": 3,
+        "draws": 1,
+        "losses": 1,
+        "goalsFor": 11,
+        "goalsAgainst": 4
+      },
+      {
         "teamId": "2209",
         "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
-        "position": 3,
+        "position": 4,
         "played": 3,
         "points": 9,
         "wins": 3,
@@ -718,7 +730,7 @@
       {
         "teamId": "10",
         "name": "REAL MADRID C.F. 'B'",
-        "position": 4,
+        "position": 5,
         "played": 3,
         "points": 9,
         "wins": 3,
@@ -726,18 +738,6 @@
         "losses": 0,
         "goalsFor": 13,
         "goalsAgainst": 3
-      },
-      {
-        "teamId": "573",
-        "name": "GETAFE C.F. S.A.D. 'C'",
-        "position": 5,
-        "played": 4,
-        "points": 9,
-        "wins": 3,
-        "draws": 0,
-        "losses": 1,
-        "goalsFor": 11,
-        "goalsAgainst": 4
       },
       {
         "teamId": "308588",
@@ -803,10 +803,10 @@
         "teamId": "795",
         "name": "A.D. VILLA ROSA 'A'",
         "position": 11,
-        "played": 4,
-        "points": 3,
+        "played": 5,
+        "points": 4,
         "wins": 1,
-        "draws": 0,
+        "draws": 1,
         "losses": 3,
         "goalsFor": 4,
         "goalsAgainst": 16
@@ -872,12 +872,12 @@
         "goalsAgainst": 11
       }
     ],
-    "refreshedAt": "2026-10-24T08:05:51.576Z",
+    "refreshedAt": "2026-10-24T08:37:51.548Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
     },
-    "round": 4,
+    "round": 5,
     "season": "2026-2027",
     "competition": "DIVISIÓN DE HONOR INFANTIL",
     "group": "Grupo 1"
