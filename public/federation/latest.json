@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T12:42:54.414Z",
+  "updatedAt": "2026-10-24T13:16:27.508Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-24T12:42:54.414Z",
+    "refreshedAt": "2026-10-24T13:16:27.508Z",
     "matches": [
       {
         "id": "5570805",
@@ -755,10 +755,10 @@
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
         "position": 7,
-        "played": 4,
-        "points": 6,
+        "played": 5,
+        "points": 7,
         "wins": 2,
-        "draws": 0,
+        "draws": 1,
         "losses": 2,
         "goalsFor": 5,
         "goalsAgainst": 7
@@ -851,10 +851,10 @@
         "teamId": "112",
         "name": "ARAVACA C.F. - CEIBA 'A'",
         "position": 15,
-        "played": 4,
-        "points": 0,
+        "played": 5,
+        "points": 1,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 4,
         "goalsFor": 1,
         "goalsAgainst": 11
@@ -872,7 +872,7 @@
         "goalsAgainst": 21
       }
     ],
-    "refreshedAt": "2026-10-24T12:42:54.414Z",
+    "refreshedAt": "2026-10-24T13:16:27.508Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
