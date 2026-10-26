@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T23:58:18.588Z",
+  "updatedAt": "2026-10-26T01:00:02.885Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-25T23:58:18.588Z",
+    "refreshedAt": "2026-10-26T01:00:02.885Z",
     "matches": [
       {
         "id": "5570805",
@@ -117,8 +117,8 @@
           "id": "308588",
           "name": "C.D. GALAPAGAR 'A'"
         },
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 0,
+        "awayScore": 1,
         "side": "home",
         "opponent": {
           "id": "308588",
@@ -129,7 +129,7 @@
         "id": "5570848",
         "round": 6,
         "date": "2026-10-31",
-        "kickoff": "15:00",
+        "kickoff": "10:00",
         "venue": "POZUELO - VALLE DE LAS CAÑAS 1 (HA)(HA)",
         "homeTeam": {
           "id": "1880",
@@ -872,7 +872,7 @@
         "goalsAgainst": 21
       }
     ],
-    "refreshedAt": "2026-10-25T23:58:18.588Z",
+    "refreshedAt": "2026-10-26T01:00:02.885Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
