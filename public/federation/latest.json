@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T12:56:02.988Z",
+  "updatedAt": "2026-10-31T13:48:54.533Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-31T12:56:02.988Z",
+    "refreshedAt": "2026-10-31T13:48:54.533Z",
     "matches": [
       {
         "id": "5570805",
@@ -764,9 +764,21 @@
         "goalsAgainst": 7
       },
       {
+        "teamId": "127",
+        "name": "C.D. SAN FERNANDO 'A'",
+        "position": 8,
+        "played": 6,
+        "points": 7,
+        "wins": 2,
+        "draws": 1,
+        "losses": 3,
+        "goalsFor": 7,
+        "goalsAgainst": 9
+      },
+      {
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
-        "position": 8,
+        "position": 9,
         "played": 6,
         "points": 7,
         "wins": 2,
@@ -778,7 +790,7 @@
       {
         "teamId": "795",
         "name": "A.D. VILLA ROSA 'A'",
-        "position": 9,
+        "position": 10,
         "played": 6,
         "points": 6,
         "wins": 2,
@@ -790,7 +802,7 @@
       {
         "teamId": "1880",
         "name": "C.F. POZUELO DE ALARCON 'A'",
-        "position": 10,
+        "position": 11,
         "played": 6,
         "points": 6,
         "wins": 2,
@@ -802,7 +814,7 @@
       {
         "teamId": "530015",
         "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
-        "position": 11,
+        "position": 12,
         "played": 6,
         "points": 5,
         "wins": 1,
@@ -814,19 +826,19 @@
       {
         "teamId": "846596",
         "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 12,
-        "played": 5,
+        "position": 13,
+        "played": 6,
         "points": 5,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
+        "losses": 3,
         "goalsFor": 4,
-        "goalsAgainst": 6
+        "goalsAgainst": 7
       },
       {
         "teamId": "2277258",
         "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'",
-        "position": 13,
+        "position": 14,
         "played": 6,
         "points": 5,
         "wins": 1,
@@ -834,18 +846,6 @@
         "losses": 3,
         "goalsFor": 6,
         "goalsAgainst": 11
-      },
-      {
-        "teamId": "127",
-        "name": "C.D. SAN FERNANDO 'A'",
-        "position": 14,
-        "played": 5,
-        "points": 4,
-        "wins": 1,
-        "draws": 1,
-        "losses": 3,
-        "goalsFor": 6,
-        "goalsAgainst": 9
       },
       {
         "teamId": "112",
@@ -872,7 +872,7 @@
         "goalsAgainst": 21
       }
     ],
-    "refreshedAt": "2026-10-31T12:56:02.988Z",
+    "refreshedAt": "2026-10-31T13:48:54.533Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
