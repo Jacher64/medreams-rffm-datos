@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:48:54.533Z",
+  "updatedAt": "2026-10-31T14:40:59.743Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-31T13:48:54.533Z",
+    "refreshedAt": "2026-10-31T14:40:59.743Z",
     "matches": [
       {
         "id": "5570805",
@@ -704,9 +704,21 @@
         "goalsAgainst": 2
       },
       {
+        "teamId": "308588",
+        "name": "C.D. GALAPAGAR 'A'",
+        "position": 3,
+        "played": 6,
+        "points": 15,
+        "wins": 5,
+        "draws": 0,
+        "losses": 1,
+        "goalsFor": 13,
+        "goalsAgainst": 6
+      },
+      {
         "teamId": "2209",
         "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
-        "position": 3,
+        "position": 4,
         "played": 5,
         "points": 12,
         "wins": 4,
@@ -718,25 +730,13 @@
       {
         "teamId": "573",
         "name": "GETAFE C.F. S.A.D. 'C'",
-        "position": 4,
+        "position": 5,
         "played": 6,
         "points": 12,
         "wins": 4,
         "draws": 0,
         "losses": 2,
         "goalsFor": 16,
-        "goalsAgainst": 6
-      },
-      {
-        "teamId": "308588",
-        "name": "C.D. GALAPAGAR 'A'",
-        "position": 5,
-        "played": 5,
-        "points": 12,
-        "wins": 4,
-        "draws": 0,
-        "losses": 1,
-        "goalsFor": 10,
         "goalsAgainst": 6
       },
       {
@@ -755,13 +755,13 @@
         "teamId": "201",
         "name": "A.D. COLMENAR VIEJO 'A'",
         "position": 7,
-        "played": 5,
+        "played": 6,
         "points": 8,
         "wins": 2,
         "draws": 2,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 7,
-        "goalsAgainst": 7
+        "goalsAgainst": 10
       },
       {
         "teamId": "127",
@@ -872,7 +872,7 @@
         "goalsAgainst": 21
       }
     ],
-    "refreshedAt": "2026-10-31T13:48:54.533Z",
+    "refreshedAt": "2026-10-31T14:40:59.743Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
