@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T10:45:28.655Z",
+  "updatedAt": "2026-10-31T11:14:11.027Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-31T10:45:28.655Z",
+    "refreshedAt": "2026-10-31T11:14:11.027Z",
     "matches": [
       {
         "id": "5570805",
@@ -776,9 +776,21 @@
         "goalsAgainst": 7
       },
       {
+        "teamId": "1880",
+        "name": "C.F. POZUELO DE ALARCON 'A'",
+        "position": 9,
+        "played": 6,
+        "points": 6,
+        "wins": 2,
+        "draws": 0,
+        "losses": 4,
+        "goalsFor": 6,
+        "goalsAgainst": 22
+      },
+      {
         "teamId": "530015",
         "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
-        "position": 9,
+        "position": 10,
         "played": 5,
         "points": 5,
         "wins": 1,
@@ -790,7 +802,7 @@
       {
         "teamId": "846596",
         "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 10,
+        "position": 11,
         "played": 5,
         "points": 5,
         "wins": 1,
@@ -802,19 +814,19 @@
       {
         "teamId": "2277258",
         "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'",
-        "position": 11,
-        "played": 5,
+        "position": 12,
+        "played": 6,
         "points": 5,
         "wins": 1,
         "draws": 2,
-        "losses": 2,
-        "goalsFor": 4,
-        "goalsAgainst": 8
+        "losses": 3,
+        "goalsFor": 6,
+        "goalsAgainst": 11
       },
       {
         "teamId": "127",
         "name": "C.D. SAN FERNANDO 'A'",
-        "position": 12,
+        "position": 13,
         "played": 5,
         "points": 4,
         "wins": 1,
@@ -826,25 +838,13 @@
       {
         "teamId": "795",
         "name": "A.D. VILLA ROSA 'A'",
-        "position": 13,
-        "played": 5,
-        "points": 3,
-        "wins": 1,
-        "draws": 0,
-        "losses": 4,
-        "goalsFor": 4,
-        "goalsAgainst": 20
-      },
-      {
-        "teamId": "1880",
-        "name": "C.F. POZUELO DE ALARCON 'A'",
         "position": 14,
         "played": 5,
         "points": 3,
         "wins": 1,
         "draws": 0,
         "losses": 4,
-        "goalsFor": 3,
+        "goalsFor": 4,
         "goalsAgainst": 20
       },
       {
@@ -872,7 +872,7 @@
         "goalsAgainst": 21
       }
     ],
-    "refreshedAt": "2026-10-31T10:45:28.655Z",
+    "refreshedAt": "2026-10-31T11:14:11.027Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
