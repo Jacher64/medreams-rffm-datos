@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T14:40:59.743Z",
+  "updatedAt": "2026-10-31T15:13:09.642Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-10-31T14:40:59.743Z",
+    "refreshedAt": "2026-10-31T15:13:09.642Z",
     "matches": [
       {
         "id": "5570805",
@@ -851,28 +851,28 @@
         "teamId": "112",
         "name": "ARAVACA C.F. - CEIBA 'A'",
         "position": 15,
-        "played": 5,
-        "points": 1,
+        "played": 6,
+        "points": 2,
         "wins": 0,
-        "draws": 1,
+        "draws": 2,
         "losses": 4,
-        "goalsFor": 1,
-        "goalsAgainst": 11
+        "goalsFor": 3,
+        "goalsAgainst": 13
       },
       {
         "teamId": "334217",
         "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'",
         "position": 16,
-        "played": 5,
-        "points": 0,
+        "played": 6,
+        "points": 1,
         "wins": 0,
-        "draws": 0,
+        "draws": 1,
         "losses": 5,
-        "goalsFor": 4,
-        "goalsAgainst": 21
+        "goalsFor": 6,
+        "goalsAgainst": 23
       }
     ],
-    "refreshedAt": "2026-10-31T14:40:59.743Z",
+    "refreshedAt": "2026-10-31T15:13:09.642Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
