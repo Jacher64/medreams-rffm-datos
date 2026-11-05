@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T20:26:36.272Z",
+  "updatedAt": "2026-11-05T21:24:33.809Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-05T20:26:36.272Z",
+    "refreshedAt": "2026-11-05T21:24:33.809Z",
     "matches": [
       {
         "id": "5570805",
@@ -217,7 +217,7 @@
         "id": "5570882",
         "round": 10,
         "date": "2026-11-28",
-        "kickoff": null,
+        "kickoff": "09:00",
         "venue": "MAJADAHONDA - INST. DEP. LA OLIVA - CTRO. OESTE (HA)(HA)",
         "homeTeam": {
           "id": "2209",
@@ -872,7 +872,7 @@
         "goalsAgainst": 23
       }
     ],
-    "refreshedAt": "2026-11-05T20:26:36.272Z",
+    "refreshedAt": "2026-11-05T21:24:33.809Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
