@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T00:00:18.241Z",
+  "updatedAt": "2026-11-09T06:16:54.505Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-09T00:00:18.241Z",
+    "refreshedAt": "2026-11-09T06:16:54.505Z",
     "matches": [
       {
         "id": "5570805",
@@ -161,8 +161,8 @@
           "id": "10",
           "name": "REAL MADRID C.F. 'B'"
         },
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 1,
+        "awayScore": 2,
         "side": "home",
         "opponent": {
           "id": "10",
@@ -173,7 +173,7 @@
         "id": "5570865",
         "round": 8,
         "date": "2026-11-14",
-        "kickoff": null,
+        "kickoff": "12:45",
         "venue": "ARAVACA - ANTONIO SANFIZ (HA)(HA)",
         "homeTeam": {
           "id": "112",
@@ -872,7 +872,7 @@
         "goalsAgainst": 26
       }
     ],
-    "refreshedAt": "2026-11-09T00:00:18.241Z",
+    "refreshedAt": "2026-11-09T06:16:54.505Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
