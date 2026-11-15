@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T06:37:26.965Z",
+  "updatedAt": "2026-11-15T14:18:09.437Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-15T06:37:26.965Z",
+    "refreshedAt": "2026-11-15T14:18:09.437Z",
     "matches": [
       {
         "id": "5570805",
@@ -707,13 +707,13 @@
         "teamId": "308588",
         "name": "C.D. GALAPAGAR 'A'",
         "position": 3,
-        "played": 7,
-        "points": 16,
-        "wins": 5,
+        "played": 8,
+        "points": 19,
+        "wins": 6,
         "draws": 1,
         "losses": 1,
-        "goalsFor": 14,
-        "goalsAgainst": 7
+        "goalsFor": 17,
+        "goalsAgainst": 8
       },
       {
         "teamId": "2209",
@@ -767,13 +767,13 @@
         "teamId": "299",
         "name": "LAS ROZAS C.F. 'A'",
         "position": 8,
-        "played": 6,
+        "played": 7,
         "points": 10,
         "wins": 3,
         "draws": 1,
-        "losses": 2,
-        "goalsFor": 16,
-        "goalsAgainst": 6
+        "losses": 3,
+        "goalsFor": 17,
+        "goalsAgainst": 9
       },
       {
         "teamId": "9888257",
@@ -872,7 +872,7 @@
         "goalsAgainst": 31
       }
     ],
-    "refreshedAt": "2026-11-15T06:37:26.965Z",
+    "refreshedAt": "2026-11-15T14:18:09.437Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
