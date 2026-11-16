@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T23:57:12.004Z",
+  "updatedAt": "2026-11-16T06:19:25.226Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-15T23:57:12.004Z",
+    "refreshedAt": "2026-11-16T06:19:25.226Z",
     "matches": [
       {
         "id": "5570805",
@@ -183,8 +183,8 @@
           "id": "2277258",
           "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
         },
-        "homeScore": null,
-        "awayScore": null,
+        "homeScore": 2,
+        "awayScore": 0,
         "side": "away",
         "opponent": {
           "id": "112",
@@ -194,8 +194,8 @@
       {
         "id": "5570873",
         "round": 9,
-        "date": "2026-11-21",
-        "kickoff": null,
+        "date": "2026-11-22",
+        "kickoff": "10:35",
         "venue": "UNIVERSIDAD FRANCISCO DE VITORIA (HA)(HA)",
         "homeTeam": {
           "id": "2277258",
@@ -872,7 +872,7 @@
         "goalsAgainst": 31
       }
     ],
-    "refreshedAt": "2026-11-15T23:57:12.004Z",
+    "refreshedAt": "2026-11-16T06:19:25.226Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
