@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T08:14:43.282Z",
+  "updatedAt": "2026-11-21T16:08:26.468Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-21T08:14:43.282Z",
+    "refreshedAt": "2026-11-21T16:08:26.468Z",
     "matches": [
       {
         "id": "5570805",
@@ -683,13 +683,13 @@
         "teamId": "10",
         "name": "REAL MADRID C.F. 'B'",
         "position": 1,
-        "played": 8,
-        "points": 24,
-        "wins": 8,
+        "played": 9,
+        "points": 27,
+        "wins": 9,
         "draws": 0,
         "losses": 0,
-        "goalsFor": 33,
-        "goalsAgainst": 7
+        "goalsFor": 36,
+        "goalsAgainst": 8
       },
       {
         "teamId": "300551",
@@ -707,46 +707,70 @@
         "teamId": "308588",
         "name": "C.D. GALAPAGAR 'A'",
         "position": 3,
-        "played": 8,
+        "played": 9,
         "points": 19,
         "wins": 6,
         "draws": 1,
-        "losses": 1,
+        "losses": 2,
         "goalsFor": 17,
-        "goalsAgainst": 8
-      },
-      {
-        "teamId": "2209",
-        "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
-        "position": 4,
-        "played": 8,
-        "points": 15,
-        "wins": 5,
-        "draws": 0,
-        "losses": 3,
-        "goalsFor": 24,
         "goalsAgainst": 10
       },
       {
         "teamId": "573",
         "name": "GETAFE C.F. S.A.D. 'C'",
+        "position": 4,
+        "played": 9,
+        "points": 18,
+        "wins": 6,
+        "draws": 0,
+        "losses": 3,
+        "goalsFor": 21,
+        "goalsAgainst": 10
+      },
+      {
+        "teamId": "2209",
+        "name": "C.F. RAYO MAJADAHONDA SAD 'A'",
         "position": 5,
-        "played": 8,
+        "played": 9,
         "points": 15,
         "wins": 5,
         "draws": 0,
-        "losses": 3,
-        "goalsFor": 18,
-        "goalsAgainst": 9
+        "losses": 4,
+        "goalsFor": 24,
+        "goalsAgainst": 13
       },
       {
-        "teamId": "127",
-        "name": "C.D. SAN FERNANDO 'A'",
+        "teamId": "299",
+        "name": "LAS ROZAS C.F. 'A'",
         "position": 6,
-        "played": 8,
-        "points": 11,
+        "played": 9,
+        "points": 13,
+        "wins": 4,
+        "draws": 1,
+        "losses": 4,
+        "goalsFor": 21,
+        "goalsAgainst": 12
+      },
+      {
+        "teamId": "530015",
+        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
+        "position": 7,
+        "played": 9,
+        "points": 12,
         "wins": 3,
-        "draws": 2,
+        "draws": 3,
+        "losses": 3,
+        "goalsFor": 21,
+        "goalsAgainst": 15
+      },
+      {
+        "teamId": "846596",
+        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
+        "position": 8,
+        "played": 9,
+        "points": 12,
+        "wins": 3,
+        "draws": 3,
         "losses": 3,
         "goalsFor": 10,
         "goalsAgainst": 10
@@ -754,7 +778,7 @@
       {
         "teamId": "201",
         "name": "A.D. COLMENAR VIEJO 'A'",
-        "position": 7,
+        "position": 9,
         "played": 8,
         "points": 11,
         "wins": 3,
@@ -764,21 +788,21 @@
         "goalsAgainst": 13
       },
       {
-        "teamId": "299",
-        "name": "LAS ROZAS C.F. 'A'",
-        "position": 8,
-        "played": 8,
-        "points": 10,
+        "teamId": "127",
+        "name": "C.D. SAN FERNANDO 'A'",
+        "position": 10,
+        "played": 9,
+        "points": 11,
         "wins": 3,
-        "draws": 1,
+        "draws": 2,
         "losses": 4,
-        "goalsFor": 18,
-        "goalsAgainst": 12
+        "goalsFor": 11,
+        "goalsAgainst": 13
       },
       {
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
-        "position": 9,
+        "position": 11,
         "played": 8,
         "points": 10,
         "wins": 3,
@@ -786,30 +810,6 @@
         "losses": 4,
         "goalsFor": 9,
         "goalsAgainst": 12
-      },
-      {
-        "teamId": "530015",
-        "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
-        "position": 10,
-        "played": 8,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 3,
-        "goalsFor": 18,
-        "goalsAgainst": 15
-      },
-      {
-        "teamId": "846596",
-        "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 11,
-        "played": 8,
-        "points": 9,
-        "wins": 2,
-        "draws": 3,
-        "losses": 3,
-        "goalsFor": 8,
-        "goalsAgainst": 10
       },
       {
         "teamId": "795",
@@ -839,13 +839,13 @@
         "teamId": "1880",
         "name": "C.F. POZUELO DE ALARCON 'A'",
         "position": 14,
-        "played": 8,
+        "played": 9,
         "points": 6,
         "wins": 2,
         "draws": 0,
-        "losses": 6,
+        "losses": 7,
         "goalsFor": 6,
-        "goalsAgainst": 26
+        "goalsAgainst": 29
       },
       {
         "teamId": "2277258",
@@ -863,21 +863,21 @@
         "teamId": "334217",
         "name": "C.D. CHAMARTIN VERGARA - ALCOBENDAS 'A'",
         "position": 16,
-        "played": 8,
+        "played": 9,
         "points": 2,
         "wins": 0,
         "draws": 2,
-        "losses": 6,
-        "goalsFor": 10,
-        "goalsAgainst": 31
+        "losses": 7,
+        "goalsFor": 11,
+        "goalsAgainst": 34
       }
     ],
-    "refreshedAt": "2026-11-21T08:14:43.282Z",
+    "refreshedAt": "2026-11-21T16:08:26.468Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
     },
-    "round": 8,
+    "round": 9,
     "season": "2026-2027",
     "competition": "DIVISIÓN DE HONOR INFANTIL",
     "group": "Grupo 1"
