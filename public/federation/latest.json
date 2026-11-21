@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T16:08:26.468Z",
+  "updatedAt": "2026-11-21T21:37:20.552Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-21T16:08:26.468Z",
+    "refreshedAt": "2026-11-21T21:37:20.552Z",
     "matches": [
       {
         "id": "5570805",
@@ -740,9 +740,21 @@
         "goalsAgainst": 13
       },
       {
+        "teamId": "201",
+        "name": "A.D. COLMENAR VIEJO 'A'",
+        "position": 6,
+        "played": 9,
+        "points": 14,
+        "wins": 4,
+        "draws": 2,
+        "losses": 3,
+        "goalsFor": 11,
+        "goalsAgainst": 13
+      },
+      {
         "teamId": "299",
         "name": "LAS ROZAS C.F. 'A'",
-        "position": 6,
+        "position": 7,
         "played": 9,
         "points": 13,
         "wins": 4,
@@ -754,7 +766,7 @@
       {
         "teamId": "530015",
         "name": "ATLETICO CHOPERA ALCOBENDAS 04 'A'",
-        "position": 7,
+        "position": 8,
         "played": 9,
         "points": 12,
         "wins": 3,
@@ -766,7 +778,7 @@
       {
         "teamId": "846596",
         "name": "RAYO CIUDAD ALCOBENDAS C.F. 'B'",
-        "position": 8,
+        "position": 9,
         "played": 9,
         "points": 12,
         "wins": 3,
@@ -774,18 +786,6 @@
         "losses": 3,
         "goalsFor": 10,
         "goalsAgainst": 10
-      },
-      {
-        "teamId": "201",
-        "name": "A.D. COLMENAR VIEJO 'A'",
-        "position": 9,
-        "played": 8,
-        "points": 11,
-        "wins": 3,
-        "draws": 2,
-        "losses": 3,
-        "goalsFor": 9,
-        "goalsAgainst": 13
       },
       {
         "teamId": "127",
@@ -827,13 +827,13 @@
         "teamId": "112",
         "name": "ARAVACA C.F. - CEIBA 'A'",
         "position": 13,
-        "played": 8,
+        "played": 9,
         "points": 6,
         "wins": 1,
         "draws": 3,
-        "losses": 4,
+        "losses": 5,
         "goalsFor": 7,
-        "goalsAgainst": 15
+        "goalsAgainst": 17
       },
       {
         "teamId": "1880",
@@ -872,7 +872,7 @@
         "goalsAgainst": 34
       }
     ],
-    "refreshedAt": "2026-11-21T16:08:26.468Z",
+    "refreshedAt": "2026-11-21T21:37:20.552Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
