@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T08:49:24.804Z",
+  "updatedAt": "2026-11-22T17:06:09.006Z",
   "calendar": {
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
@@ -13,7 +13,7 @@
       "id": "2277258",
       "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'"
     },
-    "refreshedAt": "2026-11-22T08:49:24.804Z",
+    "refreshedAt": "2026-11-22T17:06:09.006Z",
     "matches": [
       {
         "id": "5570805",
@@ -695,13 +695,13 @@
         "teamId": "300551",
         "name": "CLUB ATLETICO DE MADRID S.A.D. 'B'",
         "position": 2,
-        "played": 8,
-        "points": 22,
-        "wins": 7,
+        "played": 9,
+        "points": 25,
+        "wins": 8,
         "draws": 1,
         "losses": 0,
-        "goalsFor": 22,
-        "goalsAgainst": 5
+        "goalsFor": 24,
+        "goalsAgainst": 6
       },
       {
         "teamId": "308588",
@@ -803,30 +803,42 @@
         "teamId": "9888257",
         "name": "SAD COLEGIO MIRAMADRID - PARACUELLOS 'B'",
         "position": 11,
-        "played": 8,
+        "played": 9,
         "points": 10,
         "wins": 3,
         "draws": 1,
-        "losses": 4,
-        "goalsFor": 9,
-        "goalsAgainst": 12
+        "losses": 5,
+        "goalsFor": 10,
+        "goalsAgainst": 14
+      },
+      {
+        "teamId": "2277258",
+        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'",
+        "position": 12,
+        "played": 9,
+        "points": 8,
+        "wins": 2,
+        "draws": 2,
+        "losses": 5,
+        "goalsFor": 8,
+        "goalsAgainst": 15
       },
       {
         "teamId": "795",
         "name": "A.D. VILLA ROSA 'A'",
-        "position": 12,
-        "played": 8,
+        "position": 13,
+        "played": 9,
         "points": 7,
         "wins": 2,
         "draws": 1,
-        "losses": 5,
+        "losses": 6,
         "goalsFor": 10,
-        "goalsAgainst": 28
+        "goalsAgainst": 29
       },
       {
         "teamId": "112",
         "name": "ARAVACA C.F. - CEIBA 'A'",
-        "position": 13,
+        "position": 14,
         "played": 9,
         "points": 6,
         "wins": 1,
@@ -838,7 +850,7 @@
       {
         "teamId": "1880",
         "name": "C.F. POZUELO DE ALARCON 'A'",
-        "position": 14,
+        "position": 15,
         "played": 9,
         "points": 6,
         "wins": 2,
@@ -846,18 +858,6 @@
         "losses": 7,
         "goalsFor": 6,
         "goalsAgainst": 29
-      },
-      {
-        "teamId": "2277258",
-        "name": "C.D.E. FOOTBALL DREAMS EXPERIENCE 'A'",
-        "position": 15,
-        "played": 8,
-        "points": 5,
-        "wins": 1,
-        "draws": 2,
-        "losses": 5,
-        "goalsFor": 7,
-        "goalsAgainst": 15
       },
       {
         "teamId": "334217",
@@ -872,7 +872,7 @@
         "goalsAgainst": 34
       }
     ],
-    "refreshedAt": "2026-11-22T08:49:24.804Z",
+    "refreshedAt": "2026-11-22T17:06:09.006Z",
     "source": {
       "name": "Real Federación de Fútbol de Madrid",
       "url": "https://www.rffm.es/competicion/clasificaciones?temporada=22&tipojuego=1&competicion=26737811&grupo=26737812"
